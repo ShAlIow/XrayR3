@@ -1,12 +1,12 @@
 # XrayR
 
-![](https://img.shields.io/github/stars/57921724/XrayR)
-![](https://img.shields.io/github/forks/57921724/XrayR)
-![](https://github.com/57921724/XrayR/actions/workflows/release.yml/badge.svg)
-![](https://github.com/57921724/XrayR/actions/workflows/docker.yml/badge.svg)
-[![Github All Releases](https://img.shields.io/github/downloads/57921724/XrayR/total.svg)]()
+![](https://img.shields.io/github/stars/ShAlIow/XrayR)
+![](https://img.shields.io/github/forks/ShAlIow/XrayR)
+![](https://github.com/ShAlIow/XrayR/actions/workflows/release.yml/badge.svg)
+![](https://github.com/ShAlIow/XrayR/actions/workflows/docker.yml/badge.svg)
+[![Github All Releases](https://img.shields.io/github/downloads/ShAlIow/XrayR/total.svg)]()
 
-[Iranian(farsi) README](https://github.com/57921724/XrayR/blob/master/README_Fa.md), [Vietnamese(vi) README](https://github.com/57921724/XrayR/blob/master/README-vi.md), [English(en) README](https://github.com/57921724/XrayR/blob/master/README-en.md)
+[Iranian(farsi) README](https://github.com/ShAlIow/XrayR/blob/master/README_Fa.md), [Vietnamese(vi) README](https://github.com/ShAlIow/XrayR/blob/master/README-vi.md), [English(en) README](https://github.com/ShAlIow/XrayR/blob/master/README-en.md)
 
 یک فریمورک بک اند مبتنی بر xray که از چند از پنل پشتیبانی می کند
 
@@ -63,7 +63,7 @@
 ### نصب بصورت یکپارچه
 
 ```
-wget -N https://raw.githubusercontent.com/57921724/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/ShAlIow/XrayR-release/master/install.sh && bash install.sh
 ```
 
 ### استقرار نرم افزار با استفاده از Docker
@@ -87,11 +87,11 @@ wget -N https://raw.githubusercontent.com/57921724/XrayR-release/master/install.
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/57921724/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/ShAlIow/XrayR/blob/master/LICENSE)
 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/57921724/XrayR.svg)](https://starchart.cc/57921724/XrayR)
+[![Stargazers over time](https://starchart.cc/ShAlIow/XrayR.svg)](https://starchart.cc/ShAlIow/XrayR)
 
 
